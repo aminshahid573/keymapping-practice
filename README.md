@@ -22,13 +22,13 @@ Key Mapping Practice is a simple web application that allows you to practice and
 ## Installation
 
 1. Clone the repository:
-    \`\`\`bash
+    ```bash
     git clone https://github.com/aminshahid573/keymapping-practice.git
-    \`\`\`
+    ```
 2. Navigate to the project directory:
-    \`\`\`bash
+    ```bash
     cd key-mapping-practice
-    \`\`\`
+   ```
 3. Open the `index.html` file in your web browser.
 
 ## Usage
@@ -39,13 +39,13 @@ Key Mapping Practice is a simple web application that allows you to practice and
 
 ## Project Structure
 
-\`\`\`plaintext
+```plaintext
 key-mapping-practice/
 │
 ├── index.html
 ├── styles.css
 └── script.js
-\`\`\`
+```
 
 ## Contributing
 
