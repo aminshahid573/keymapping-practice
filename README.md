@@ -27,7 +27,7 @@ Key Mapping Practice is a simple web application that allows you to practice and
     ```
 2. Navigate to the project directory:
     ```bash
-    cd key-mapping-practice
+    cd keymapping-practice
    ```
 3. Open the `index.html` file in your web browser.
 
