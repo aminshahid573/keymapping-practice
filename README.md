@@ -23,7 +23,7 @@ Key Mapping Practice is a simple web application that allows you to practice and
 
 1. Clone the repository:
     \`\`\`bash
-    git clone https://github.com/aminshahid573/key-mapping-practice.git
+    git clone https://github.com/aminshahid573/keymapping-practice.git
     \`\`\`
 2. Navigate to the project directory:
     \`\`\`bash
