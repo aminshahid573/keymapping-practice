@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  text-align: center;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  border: 2px solid #333;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+#key-list {
+  margin-top: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+#key-list li {
+  font-size: 18px;
+  font-weight: bold;
+  color: #555;
+  margin-top: 10px;
+}

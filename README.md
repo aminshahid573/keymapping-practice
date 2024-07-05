@@ -1,4 +1,3 @@
-
 # Key Mapping Practice
 
 Key Mapping Practice is a simple web application that allows you to practice and visualize key mappings. When you press a button on the keyboard, it displays the corresponding key and counts the number of times each key is pressed.
@@ -11,7 +10,7 @@ Key Mapping Practice is a simple web application that allows you to practice and
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](./images/demo.png)
 
 ## Technologies Used
 
@@ -22,12 +21,12 @@ Key Mapping Practice is a simple web application that allows you to practice and
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/aminshahid573/keymapping-practice.git
-    ```
+   ```bash
+   git clone https://github.com/aminshahid573/keymapping-practice.git
+   ```
 2. Navigate to the project directory:
-    ```bash
-    cd keymapping-practice
+   ```bash
+   cd keymapping-practice
    ```
 3. Open the `index.html` file in your web browser.
 
